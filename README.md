@@ -8,10 +8,6 @@ First Reviewer: Prof. Dr. Christian Breunig
 
 Second Reviewer: Prof. Dr. Guido Schwerdt
 
-## Replication Materials
-
-I only upload my own code to this repository. For the code of the entire analysis, the repositories mentioned in the paper must be accessed.
-If there are similarities in parts of the code, the origin of the code was referenced in the code or in the master's thesis.
 
 ## Data
 
