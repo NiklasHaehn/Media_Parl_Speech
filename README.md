@@ -12,7 +12,9 @@ Second Reviewer: Prof. Dr. Guido Schwerdt
 
 I only upload my own code to this repository. For the code of the entire analysis, the repositories mentioned in the paper must be accessed.
 
+## Data
 
+This repository does not provide any data. Most of the data can be retrieved via scraping or APIs in the code. Further data can be requested from the author.
 
 
 
